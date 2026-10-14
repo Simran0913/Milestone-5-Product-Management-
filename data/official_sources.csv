@@ -1,0 +1,6 @@
+source_id,title,url,checked_date,verified_fact,notes
+1,ChatGPT Free Tier FAQ,https://help.openai.com/en/articles/9275245-using-chatgpt-s-free-tier-faq,2026-10-12,Free tier has tool-specific usage limits and shows reset information when applicable,Official OpenAI Help Center
+2,What is ChatGPT Plus?,https://help.openai.com/en/articles/6950777-what-is-chatgpt-plus,2026-10-12,Plus provides higher limits but may still include usage limits,Official OpenAI Help Center
+3,ChatGPT Image Inputs FAQ,https://help.openai.com/en/articles/8400551-chatgpt-image-inputs-faq,2026-10-12,Image capabilities are subject to plan-specific usage limits,Official OpenAI Help Center
+4,File Uploads FAQ,https://help.openai.com/en/articles/8555545,2026-10-12,File uploads have plan-specific limits and usage caps,Official OpenAI Help Center
+5,ChatGPT FAQ,https://help.openai.com/en/articles/12677804-what-is-chatgpt-faq,2026-10-12,Plans and message limits vary and may change over time,Official OpenAI Help Center

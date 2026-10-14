@@ -1,0 +1,9 @@
+google-play-scraper==1.2.7
+pandas>=2.2,<3
+python-dotenv>=1.0,<2
+mcp[cli]>=1.6,<2
+streamlit>=1.38,<2
+
+scikit-learn>=1.5,<2
+google-api-python-client>=2.140,<3
+google-auth-oauthlib>=1.2,<2
