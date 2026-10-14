@@ -1,0 +1,120 @@
+{
+  "generated_date": "2026-10-14",
+  "review_count": 1200,
+  "date_range": {
+    "start": "2026-10-08",
+    "end": "2026-10-11"
+  },
+  "method": "Keyword-guided thematic clustering over recent public review text. Reviews may match more than one theme; at most five themes are reported.",
+  "theme_clusters": [
+    {
+      "cluster_id": 0,
+      "theme": "Image generation / editing",
+      "review_count": 39,
+      "method": "keyword-guided thematic clustering from review text"
+    },
+    {
+      "cluster_id": 1,
+      "theme": "Answer quality / accuracy",
+      "review_count": 31,
+      "method": "keyword-guided thematic clustering from review text"
+    },
+    {
+      "cluster_id": 2,
+      "theme": "Usage limits / upgrade",
+      "review_count": 22,
+      "method": "keyword-guided thematic clustering from review text"
+    },
+    {
+      "cluster_id": 3,
+      "theme": "Reliability / performance",
+      "review_count": 12,
+      "method": "keyword-guided thematic clustering from review text"
+    },
+    {
+      "cluster_id": 4,
+      "theme": "Voice experience",
+      "review_count": 5,
+      "method": "keyword-guided thematic clustering from review text"
+    }
+  ],
+  "top_3_themes": [
+    {
+      "cluster_id": 0,
+      "theme": "Image generation / editing",
+      "review_count": 39,
+      "method": "keyword-guided thematic clustering from review text"
+    },
+    {
+      "cluster_id": 1,
+      "theme": "Answer quality / accuracy",
+      "review_count": 31,
+      "method": "keyword-guided thematic clustering from review text"
+    },
+    {
+      "cluster_id": 2,
+      "theme": "Usage limits / upgrade",
+      "review_count": 22,
+      "method": "keyword-guided thematic clustering from review text"
+    }
+  ],
+  "three_real_review_quotes": [
+    {
+      "quote": "Image generation being set to a monthly limit vs. a daily limit is ridiculous. Most of the time the images I generate are useless due to chatgpt making errors, and not doing edits, just generating the exact same image again, so now because of this new limit when it screws up as much as it does, I'm locked out from generating more images for an ENTIRE month. This isn't going to make me want to pay for your subscription. It's just making me switch to another AI client for all my needs instead.",
+      "date": "2026-10-08",
+      "rating": 1,
+      "source_url": "https://play.google.com/store/apps/details?id=com.openai.chatgpt&showAllReviews=true",
+      "review_id": "be993bcf-77ce-459c-a366-4a0e1210c487",
+      "theme": "Image generation / editing"
+    },
+    {
+      "quote": "very helpfull ever in my life with such a clear and accurate answers without any mistakes 🥰. Diagrams are too clear and beautiful with AI 🔥🔥.",
+      "date": "2026-10-11",
+      "rating": 5,
+      "source_url": "https://play.google.com/store/apps/details?id=com.openai.chatgpt&showAllReviews=true",
+      "review_id": "1b877ecd-6137-4db0-a82c-7c4dc31f0fdc",
+      "theme": "Answer quality / accuracy"
+    },
+    {
+      "quote": "Image generation being set to a monthly limit vs. a daily limit is ridiculous. Most of the time the images I generate are useless due to chatgpt making errors, and not doing edits, just generating the exact same image again, so now because of this new limit when it screws up as much as it does, I'm locked out from generating more images for an ENTIRE month. This isn't going to make me want to pay for your subscription. It's just making me switch to another AI client for all my needs instead.",
+      "date": "2026-10-08",
+      "rating": 1,
+      "source_url": "https://play.google.com/store/apps/details?id=com.openai.chatgpt&showAllReviews=true",
+      "review_id": "be993bcf-77ce-459c-a366-4a0e1210c487",
+      "theme": "Usage limits / upgrade"
+    }
+  ],
+  "identified_fee_issue": "Usage limits and paid-upgrade confusion",
+  "fee_issue_match_count": 4,
+  "fee_issue_evidence": [
+    {
+      "quote": "Image generation being set to a monthly limit vs. a daily limit is ridiculous. Most of the time the images I generate are useless due to chatgpt making errors, and not doing edits, just generating the exact same image again, so now because of this new limit when it screws up as much as it does, I'm locked out from generating more images for an ENTIRE month. This isn't going to make me want to pay for your subscription. It's just making me switch to another AI client for all my needs instead.",
+      "date": "2026-10-08",
+      "rating": 1,
+      "source_url": "https://play.google.com/store/apps/details?id=com.openai.chatgpt&showAllReviews=true",
+      "review_id": "be993bcf-77ce-459c-a366-4a0e1210c487"
+    },
+    {
+      "quote": "* – Extremely Frustrating! Even as a free user, I deserve a tool that works properly. ChatGPT makes repeated mistakes, generates faulty files, and wastes my limited usage on fixing its own errors. Then the limits run out, and my work remains unfinished. If free users are expected to tolerate poor results and endless frustration, what is the point of offering this service? Stop wasting users’ time and fix the quality issues!",
+      "date": "2026-10-10",
+      "rating": 1,
+      "source_url": "https://play.google.com/store/apps/details?id=com.openai.chatgpt&showAllReviews=true",
+      "review_id": "6d878b22-abfb-4a8e-b69d-f6366080ad05"
+    },
+    {
+      "quote": "Image limitations is whatever, but limiting normal chat is honestly pathetic, was enjoying the app before it erased my conversation and said \"Upgrade plan\" this app is complete garbage, will be deleting it from my phone, corporate scum.",
+      "date": "2026-10-09",
+      "rating": 1,
+      "source_url": "https://play.google.com/store/apps/details?id=com.openai.chatgpt&showAllReviews=true",
+      "review_id": "8137a7ae-3d16-4765-a173-3f7c29e715b0"
+    },
+    {
+      "quote": "it gives you limited time and after that you must pay so l prefer deleting and downloading the app again",
+      "date": "2026-10-11",
+      "rating": 3,
+      "source_url": "https://play.google.com/store/apps/details?id=com.openai.chatgpt&showAllReviews=true",
+      "review_id": "dcfd93eb-cfb2-4ef1-b44e-3059e377c23b"
+    }
+  ],
+  "fee_issue_status": "Recurring issue detected in 4 reviews: Usage limits and paid-upgrade confusion"
+}
